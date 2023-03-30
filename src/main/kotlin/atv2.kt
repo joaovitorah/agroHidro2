@@ -33,7 +33,7 @@ fun main () {
         }
 
         else -> {
-            "Operação Inválid"
+            println("Operação Inválida")
         }
     }
 }
