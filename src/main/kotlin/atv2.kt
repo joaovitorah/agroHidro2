@@ -33,7 +33,7 @@ fun main () {
         }
 
         else -> {
-            "Operação Inválida!"
+            "Operação Inválid"
         }
     }
 }
